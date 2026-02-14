@@ -1,5 +1,0 @@
-aiogram==3.*
-aiosqlite
-requests
-apscheduler
-aiohttp
